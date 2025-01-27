@@ -23,6 +23,7 @@ NFT marketplaces have revolutionized the way artists, designers, musicians, and 
 
 FileBlox introduces a decentralized marketplace for encrypted NFTs, addressing this challenge head-on. By encrypting the content and leveraging advanced technologies, FileBlox ensures that only authorized users who have purchased the NFT can access and enjoy the content. This enhances the value and exclusivity of the NFTs, providing digital creators with a secure and reliable platform.
 
+
 ## How FileBlox Solves the Problem
 
 The process of using FileBlox is simple and secure:
@@ -36,8 +37,8 @@ The process of using FileBlox is simple and secure:
 4. When a user purchases the NFT, they can view it on their user dashboard. Clicking the download button triggers FileBlox to check if the user owns the NFT containing the hash. If authorized, the file is decrypted, and the user is provided with the location to access the file.
 
 
-
 This process ensures that exclusive content remains protected and accessible only to those who have legitimately purchased the NFTs, safeguarding the value and exclusivity of the digital creations.
+
 
 ## Technologies Used
 
@@ -55,6 +56,7 @@ FileBlox utilizes a combination of cutting-edge technologies to create a robust 
 
 - **Marketplace Currency**: Apecoin serves as the main marketplace currency within FileBlox, enabling users to access the broader Ape ecosystem and enhancing their overall experience on the platform.
 
+
 ## Getting Started
 
 To get started with FileBlox, follow these steps:
@@ -67,6 +69,7 @@ To get started with FileBlox, follow these steps:
 6. Access FileBlox through the provided localhost address and explore its features and functionalities.
 
 Please refer to the project's detailed documentation for more specific instructions on installation, configuration, and deployment.
+
 
 ## Future Development
 
